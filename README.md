@@ -80,8 +80,12 @@ Lisensi
 
 Proyek ini dilisensikan di bawah lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
 
-![foto 1](https://github.com/user-attachments/assets/b02bda61-6b61-422f-9d9a-ae5d78a5c1b5)
-
 
 ![image](https://github.com/user-attachments/assets/4646bb14-d60d-4171-b507-283573099f09)
+
+![image](https://github.com/user-attachments/assets/564fd98c-3995-4c51-a40a-c64a157d5290)
+
+![image](https://github.com/user-attachments/assets/ea42ae79-7707-442e-86fd-4b1c60f00d6c)
+
+
 
